@@ -10,7 +10,7 @@ port = 44444
 ip = input('@ip : ')
 
 # connect to the server on local computer 
-s.connect(('127.0.0.1', port)) 
+s.connect((ip, port)) 
 
 def receiveFile(sock, name):
     name = name.split('/')
