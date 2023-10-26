@@ -26,8 +26,11 @@ For Linux:-
 2) Click the Login Items tab to see your list of startup programs.
 3) Add the Main-v0.0.1.py to the list.
 
+## Screenshots
 
+<img width="1512" alt="Screenshot 2023-10-26 at 4 30 52 PM" src="https://github.com/jeeban-jyoti/LAN-File-Sharing/assets/72793803/517a2d35-4854-4a80-af77-85e0b4ae9f78">
 
+<img width="1512" alt="Screenshot 2023-10-26 at 4 30 36 PM" src="https://github.com/jeeban-jyoti/LAN-File-Sharing/assets/72793803/10272f0c-39f0-4dea-a5a5-018e98333b4d">
 
 
 ## Usage
